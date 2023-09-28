@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Hello bird world!");
         Chicken myChicken = new Chicken();
         myChicken.dance();
+        System.out.println("test");
     }
 }
